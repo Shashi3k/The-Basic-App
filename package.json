@@ -1,0 +1,17 @@
+{
+  "name": "the-basic-app",
+  "version": "1.0.0",
+  "description": "Does some stuff related to web3 and blockchian...I am figuring it out myself",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "alchemy-sdk": "^2.9.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1"
+  }
+}
